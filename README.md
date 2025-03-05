@@ -53,7 +53,7 @@ This explains each column in the dataset as follows;
   - Android Version:The minimum Android version required for an app is essential for device compatibility, user reach, and performance, For instance; Version 4.5, Version 4.0.
   
 # Dashboard
-<img src= https://github.com/user-attachments/assets/3594ba90-d74d-42d2-9778-4bf111b76b92 width=”400” height=”250” alt=”Image”>
+<img src= https://github.com/user-attachments/assets/3594ba90-d74d-42d2-9778-4bf111b76b92 width=”250” height=”150” alt=”Image”>
 
 
 # Tools
